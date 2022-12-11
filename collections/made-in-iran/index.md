@@ -4,7 +4,7 @@ items:
  - jadijadi/justforfun
  - mr-hashemi/mr-hashemi
  - pashmaklang/pashmak
- - sobhe/moratab
+ - roshan-research/moratab
  - PyFarsi/pyabr
  - jamedadi/yummy
 display_name: Made in Iran
