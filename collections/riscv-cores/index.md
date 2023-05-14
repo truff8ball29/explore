@@ -31,7 +31,7 @@ items:
  - SonalPinto/kronos
  - stevehoover/warp-v
  - stnolting/neorv32
- - rafaelcalcada/steel-core
+ - riscv-steel/riscv-steel-core
  - klessydra/T13x
  - klessydra/T03x
  - klessydra/T02x
